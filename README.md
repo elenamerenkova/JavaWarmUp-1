@@ -1,7 +1,10 @@
 # JavaWarmUp-1
 CodingBat Java WarmUp-1 exercises;
+
 These are a beginner level warm up exercises from [www.codingbat.com](https://codingbat.com/java/Warmup-1);
+
 All problems are solved by me and I will be glad to see notes and comments;
+
 List of solved problems:
 sleepIn 
 monkeyTrouble 
